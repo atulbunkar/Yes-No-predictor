@@ -2,7 +2,7 @@
              ASSIGNMENT 1 :  YES/NO PREDICTION 
 ========================================================================
 
-Mode for Speech processing Course in IIT Guwahati.
+Mode for Speech processing Course in IIT Guwahati. It correctly predicts whether the said word is YES or NO.
 
 To Execute:-
 I have used only one main file for the entirety of the assignment- "main.cpp".
