@@ -2,7 +2,7 @@
              ASSIGNMENT 1 :  YES/NO PREDICTION 
 ========================================================================
 
-ROLLNO: 214101011
+Mode for Speech processing Course in IIT Guwahati.
 
 To Execute:-
 I have used only one main file for the entirety of the assignment- "main.cpp".
